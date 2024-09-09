@@ -1,0 +1,26 @@
+/* @social News Style */
+
+.social figure .title {
+    color: var(--dark-blue-color);
+}
+.social figure .detail {
+    padding: 15px;
+}
+.social figure img {
+    border-radius: 10px 10px 0px 0px;
+}
+.social figure .date {
+    color: var(--red-color);
+    margin: 10px 0px;
+}
+
+.social .pagination ul {
+    display: flex;
+    margin-top: 20px;
+}
+.social .pagination ul li a {
+    margin-right: 5px;
+    padding: 10px 15px;
+    color: var(--white-color);
+    background-color: var(--dark-blue-color);
+}

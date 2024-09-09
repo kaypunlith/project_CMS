@@ -1,0 +1,26 @@
+/* @entertainment News Style */
+
+.entertainment figure .title {
+    color: var(--dark-blue-color);
+}
+.entertainment figure .detail {
+    padding: 15px;
+}
+.entertainment figure img {
+    border-radius: 10px 10px 0px 0px;
+}
+.entertainment figure .date {
+    color: var(--red-color);
+    margin: 10px 0px;
+}
+
+.entertainment .pagination ul {
+    display: flex;
+    margin-top: 20px;
+}
+.entertainment .pagination ul li a {
+    margin-right: 5px;
+    padding: 10px 15px;
+    color: var(--white-color);
+    background-color: var(--dark-blue-color);
+}
